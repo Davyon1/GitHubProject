@@ -1,2 +1,2 @@
-Hello, my name is Davyon Holmes "\n"
+Hello, my name is Davyon Holmes. 
 I love boxing, playing games, and music 
